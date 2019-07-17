@@ -53,7 +53,7 @@
     <string name="tracker_restore">Herstel track</string>
 
     <string name="status_paused">Gepauzeerd</string>
-    <string name="status_autopaused">A-pauze</string>
+    <string name="status_autopaused">Auto-pauze</string>
 
 
     <!-- Activity main -->
@@ -65,14 +65,14 @@
     <string name="intro_cockpit_b">Cockpit B</string>
 
     <string name="intro_map">Kaart</string>
-    <string name="intro_nominatim">Kaart zoeken</string>
+    <string name="intro_nominatim">Locatie zoeken</string>
     <string name="intro_test">Test</string>
     <string name="intro_status">Status</string>
 
     <string name="intro_overlay_list">Overlay lijst</string>
     <string name="intro_list">Track lijst</string>
-    <string name="intro_external_list">Extere bestanden</string>
-    <string name="intro_settings">Voorkeueren</string>
+    <string name="intro_external_list">Externe bestanden</string>
+    <string name="intro_settings">Voorkeuren</string>
 
 
 
@@ -86,35 +86,35 @@
 
 
     <!-- Activity OSM API Query -->
-    <string name="query_overpass">Overpass</string>
-    <string name="query_features">OSM Features</string>
-    <string name ="query_save_copy">Slaag kopie op</string>
+    <string name="query_overpass">Passeren</string>
+    <string name="query_features">OSM Kenmerken</string>
+    <string name ="query_save_copy">Sla kopie op</string>
 
 
     <!-- Preferences General -->
     <string name="p_general">Algemeen</string>
-    <string name="p_post_autopause">Autopause na proces</string>
-    <string name="p_preset_slots">Zichtbare presets</string>
+    <string name="p_post_autopause">Autopause na verwerking</string>
+    <string name="p_preset_slots">Zichtbare voorinstelling</string>
     <string name="p_unit_title">Eenheden</string>
     <string-array name="p_unit_list">
         <item>Metrisch (km, km/h)</item>
         <item>Imperiaal (mi, mph)</item>
         <item>Nautisch (nm, kn)</item>
-        <item>Internationaal Eenheden Systeem </item>
+        <item>SI-stelsel</item>
     </string-array>
 
 
     <!-- Preferences System -->
-    <string name="p_location_provider">Locatie provider</string>
+    <string name="p_location_provider">Locatieprovider</string>
     <string name="p_location_gps">Systeem GPS</string>
-    <string name="p_location_mock">Nagemaakte location</string>
+    <string name="p_location_mock">Schijnlocatie</string>
     <string name="p_directory_data">Data folder</string>
     <string name="p_cache_size">Interne cachegrootte</string>
     <string name="p_fix_gps">Fix GPS time</string>
 
 
     <!-- Preferences Context -->
-    <string name="p_overlay">Overlays</string>
+    <string name="p_overlay">Lagen</string>
     <string name="p_legend_fulldistance">Continue afstand</string>
 
 
